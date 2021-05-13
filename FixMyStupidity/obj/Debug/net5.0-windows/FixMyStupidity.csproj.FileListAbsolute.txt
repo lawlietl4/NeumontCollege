@@ -1,0 +1,17 @@
+C:\Users\lawliet\source\repos\FixMyStupidity\bin\Debug\net5.0-windows\FixMyStupidity.exe
+C:\Users\lawliet\source\repos\FixMyStupidity\bin\Debug\net5.0-windows\FixMyStupidity.deps.json
+C:\Users\lawliet\source\repos\FixMyStupidity\bin\Debug\net5.0-windows\FixMyStupidity.runtimeconfig.json
+C:\Users\lawliet\source\repos\FixMyStupidity\bin\Debug\net5.0-windows\FixMyStupidity.runtimeconfig.dev.json
+C:\Users\lawliet\source\repos\FixMyStupidity\bin\Debug\net5.0-windows\FixMyStupidity.dll
+C:\Users\lawliet\source\repos\FixMyStupidity\bin\Debug\net5.0-windows\ref\FixMyStupidity.dll
+C:\Users\lawliet\source\repos\FixMyStupidity\bin\Debug\net5.0-windows\FixMyStupidity.pdb
+C:\Users\lawliet\source\repos\FixMyStupidity\obj\Debug\net5.0-windows\FixMyStupidity.Form1.resources
+C:\Users\lawliet\source\repos\FixMyStupidity\obj\Debug\net5.0-windows\FixMyStupidity.csproj.GenerateResource.cache
+C:\Users\lawliet\source\repos\FixMyStupidity\obj\Debug\net5.0-windows\FixMyStupidity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawliet\source\repos\FixMyStupidity\obj\Debug\net5.0-windows\FixMyStupidity.AssemblyInfoInputs.cache
+C:\Users\lawliet\source\repos\FixMyStupidity\obj\Debug\net5.0-windows\FixMyStupidity.AssemblyInfo.cs
+C:\Users\lawliet\source\repos\FixMyStupidity\obj\Debug\net5.0-windows\FixMyStupidity.csproj.CoreCompileInputs.cache
+C:\Users\lawliet\source\repos\FixMyStupidity\obj\Debug\net5.0-windows\FixMyStupidity.dll
+C:\Users\lawliet\source\repos\FixMyStupidity\obj\Debug\net5.0-windows\ref\FixMyStupidity.dll
+C:\Users\lawliet\source\repos\FixMyStupidity\obj\Debug\net5.0-windows\FixMyStupidity.pdb
+C:\Users\lawliet\source\repos\FixMyStupidity\obj\Debug\net5.0-windows\FixMyStupidity.genruntimeconfig.cache
