@@ -1,0 +1,7 @@
+C:\Users\lawliet\source\repos\FileTests\bin\Debug\FileTests.exe.config
+C:\Users\lawliet\source\repos\FileTests\bin\Debug\FileTests.exe
+C:\Users\lawliet\source\repos\FileTests\bin\Debug\FileTests.pdb
+C:\Users\lawliet\source\repos\FileTests\obj\Debug\FileTests.csprojAssemblyReference.cache
+C:\Users\lawliet\source\repos\FileTests\obj\Debug\FileTests.csproj.CoreCompileInputs.cache
+C:\Users\lawliet\source\repos\FileTests\obj\Debug\FileTests.exe
+C:\Users\lawliet\source\repos\FileTests\obj\Debug\FileTests.pdb
