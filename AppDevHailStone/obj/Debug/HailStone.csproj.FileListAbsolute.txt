@@ -1,0 +1,7 @@
+C:\Users\lawliet\source\repos\HailStone\bin\Debug\HailStone.exe.config
+C:\Users\lawliet\source\repos\HailStone\bin\Debug\HailStone.exe
+C:\Users\lawliet\source\repos\HailStone\bin\Debug\HailStone.pdb
+C:\Users\lawliet\source\repos\HailStone\obj\Debug\HailStone.csprojAssemblyReference.cache
+C:\Users\lawliet\source\repos\HailStone\obj\Debug\HailStone.csproj.CoreCompileInputs.cache
+C:\Users\lawliet\source\repos\HailStone\obj\Debug\HailStone.exe
+C:\Users\lawliet\source\repos\HailStone\obj\Debug\HailStone.pdb

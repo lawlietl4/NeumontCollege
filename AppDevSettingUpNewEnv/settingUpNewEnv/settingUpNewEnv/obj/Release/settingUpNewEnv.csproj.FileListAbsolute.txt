@@ -1,0 +1,6 @@
+C:\Users\lawliet\source\repos\settingUpNewEnv\settingUpNewEnv\bin\Release\settingUpNewEnv.exe.config
+C:\Users\lawliet\source\repos\settingUpNewEnv\settingUpNewEnv\bin\Release\settingUpNewEnv.exe
+C:\Users\lawliet\source\repos\settingUpNewEnv\settingUpNewEnv\bin\Release\settingUpNewEnv.pdb
+C:\Users\lawliet\source\repos\settingUpNewEnv\settingUpNewEnv\obj\Release\settingUpNewEnv.csproj.CoreCompileInputs.cache
+C:\Users\lawliet\source\repos\settingUpNewEnv\settingUpNewEnv\obj\Release\settingUpNewEnv.exe
+C:\Users\lawliet\source\repos\settingUpNewEnv\settingUpNewEnv\obj\Release\settingUpNewEnv.pdb
