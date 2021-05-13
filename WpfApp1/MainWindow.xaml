@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MyPaint" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="152*" />
+            <RowDefinition Height="159*" />
+        </Grid.RowDefinitions>
+        <InkCanvas Margin="9,30,9,68" Name="inkCanvas1"
+                   Width="Auto" Grid.RowSpan="2" Gesture="inkCanvas1_Gesture" />
+        <Button Content="Increase Brush Size" Height="23" HorizontalAlignment="Left" Margin="574,154,0,0" x:Name="increaseBrush" 
+                Width="109" Click="incBrush_Click" Grid.Row="1" VerticalAlignment="Top"/>
+        <Button Content="Decrease Brush Size" Height="23" HorizontalAlignment="Left" Margin="138,154,0,0" x:Name="decreaseBrush" 
+                Width="118" Click="decBrush_Click" Grid.Row="1" VerticalAlignment="Top">
+        </Button>
+        <Button Content="Clear" Height="23" HorizontalAlignment="Left" Margin="160,189,0,0" x:Name="clearBtn"
+                VerticalAlignment="Top" Width="74" Click="clearBtn_Click" Grid.Row="1"/>
+        <Button Content="Close" Height="23" HorizontalAlignment="Left" Margin="591,189,0,0" x:Name="closeBtn"
+                VerticalAlignment="Top" Width="75" Click="closeBtn_Click" Grid.Row="1"/>
+        <Button x:Name="redBtn" Content="RED" HorizontalAlignment="Left" Margin="300,156,0,0" Grid.Row="1" VerticalAlignment="Top" Click="redBtn_Click"/>
+        <Button x:Name="greenBtn" Content="GREEN" HorizontalAlignment="Left" Margin="400,156,0,0" Grid.Row="1" VerticalAlignment="Top" Click="greenBtn_Click"/>
+        <Button x:Name="blueBtn" Content="BLUE" HorizontalAlignment="Left" Margin="499,156,0,0" Grid.Row="1" VerticalAlignment="Top" Click="blueBtn_Click"/>
+        <Button x:Name="eraseBtn" Content="Erase" HorizontalAlignment="Left" Margin="328,189,0,0" Grid.Row="1" VerticalAlignment="Top" Click="eraseBtn_Click">
+        </Button>
+        <Button x:Name="DrawBtn" Content="Draw" HorizontalAlignment="Left" Margin="494,189,0,0" Grid.Row="1" VerticalAlignment="Top" Click="DrawBtn_Click"/>
+    </Grid>
+</Window>
